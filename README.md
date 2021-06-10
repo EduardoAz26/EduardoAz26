@@ -4,8 +4,8 @@
   My name is Eduardo Azevedo, i'm from Brazil. I am a systems analyst with an emphasis on web and mobile development.
   
   Where you can find me:</br></br>
-  [![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Azevedo-0b5e86?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/eduardo-ribeiro-7192ba203/)](https://www.linkedin.com/in/eduardo-ribeiro-7192ba203/) 
-  [![Gmail Badge](https://img.shields.io/badge/-gmail-ef3a25?style=flat-square&logo=Gmail&logoColor=white&link=mailto:er7579345@gmail.com)](mailto:er7579345@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-0b5e86?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/eduardo-ribeiro-7192ba203/)](https://www.linkedin.com/in/eduardo-ribeiro-7192ba203/) 
+  [![Gmail Badge](https://img.shields.io/badge/-ef3a25?style=flat-square&logo=Gmail&logoColor=white&link=mailto:er7579345@gmail.com)](mailto:er7579345@gmail.com)
 
 <!--
 **EduardoAz26/EduardoAz26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
