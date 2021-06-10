@@ -6,6 +6,8 @@
   Where you can find me:</br></br>
   [![Linkedin Badge](https://img.shields.io/badge/-0b5e86?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/eduardo-ribeiro-7192ba203/)](https://www.linkedin.com/in/eduardo-ribeiro-7192ba203/) 
   [![Gmail Badge](https://img.shields.io/badge/-ef3a25?style=flat-square&logo=Gmail&logoColor=white&link=mailto:er7579345@gmail.com)](mailto:er7579345@gmail.com)
+  [![Instagram Badge](https://img.shields.io/badge/-4c68d7?style=flat-square&logo=Instagram&logoColor=white&link=hhttps://instagram.com/edubr_azevedo)](https://instagram.com/edubr_azevedo)
+
 
 <!--
 **EduardoAz26/EduardoAz26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
