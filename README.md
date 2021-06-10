@@ -1,6 +1,9 @@
 ### Welcome!
 
   My name is Eduardo Azevedo, i'm from Brazil. I am a systems analyst with an emphasis on web and mobile development.
+  
+  Where you can find me:
+  
 
 <!--
 **EduardoAz26/EduardoAz26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
