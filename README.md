@@ -3,7 +3,7 @@
 
   My name is Eduardo Azevedo, i'm from Brazil. I am a systems analyst with an emphasis on web and mobile development.
   
-  Where you can find me:</br>
+  Where you can find me:</br></br>
   [![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Azevedo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/eduardo-ribeiro-7192ba203/)](https://www.linkedin.com/in/eduardo-ribeiro-7192ba203/) 
 
 <!--
